@@ -32,13 +32,3 @@ This simple assembly program converts a decimal number to its binary representat
 ## How to Run
 1. Assemble the code using an x86 assembler (e.g., TASM).
 2. Run the generated executable in a DOS environment (e.g., DOSBox).
-
-## Example
-```
-Enter a decimal number (0 to exit): 10
-Binary representation: 0000000000000001$
-Enter a decimal number (0 to exit): 5
-Binary representation: 0000000000000101$
-Enter a decimal number (0 to exit): 0
-Are you sure you want to exit? (Y/N): Y
-```
